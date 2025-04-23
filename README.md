@@ -1,1 +1,13 @@
-# ZYZ-App-Support
+# 🎉 ZYZ App 官方技术支持 · 反馈中心
+
+欢迎来到 ZYZ App 的官方支持仓库！
+
+🛠️ 如果你遇到任何问题，或者有改进建议，欢迎在 [Discussions](https://github.com/879825362/ZYZ-App-Support/discussions) 中留言！
+
+---
+
+📩 联系方式  
+Email: 879825362@qq.com  
+也可以在APP评论区进行反馈，我们收到您的宝贵意见，将以采纳的形式进行更新！
+
+❤️ 感谢大家的支持，我们会持续优化体验！
