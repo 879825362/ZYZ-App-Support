@@ -1,6 +1,6 @@
-# 🎉 ZYZ App 官方技术支持 · 反馈中心
+# 🎉 女友翻译器 App 官方技术支持 · 反馈中心
 
-欢迎来到 ZYZ App 的官方支持仓库！
+欢迎来到 女友翻译器 App 的官方支持仓库！
 
 🛠️ 如果你遇到任何问题，或者有改进建议，欢迎在 [Discussions](https://github.com/879825362/ZYZ-App-Support/discussions) 中留言！
 
